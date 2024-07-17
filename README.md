@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dheeraj6392
 - 👀 I’m interested in learning new things and exploring...
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on web developers 
+- 💞️ I’m looking to collaborate on web developers community
 - 📫 Mobile no. 6392879668
 
 

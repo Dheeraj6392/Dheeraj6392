@@ -72,14 +72,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj6392&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj6392&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Dheeraj6392&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj6392&theme=radical" alt="streak stats" />
 </div>
 ---
 <div align="center">

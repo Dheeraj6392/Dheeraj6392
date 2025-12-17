@@ -1,73 +1,88 @@
-# Hi, I’m Dheeraj Sonkar 👋
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dheeraj+Sonkar;Full+Stack+Developer;Competitive+Programmer;LeetCode+Knight+(Max+2019);CodeChef+3+Star" alt="Typing SVG" />
 
-🚀 Computer Science graduate | Backend & Full-Stack Developer  
-💻 Passionate about building scalable applications and clean APIs  
-
----
-
-## 🔥 Live GitHub Stats (Auto-updating)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj6392&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj6392&layout=compact&theme=github_dark)
-
----
-
-## 🧠 About Me
-
-- Currently learning and working extensively with **Java & backend systems**
-- Interested in **system design, APIs, databases, and performance optimization**
-- Enjoy solving problems and building real-world projects
-- Open to collaboration in web development and backend projects
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:dheerajsonkar2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+- 🎓 I am a **B.Tech (ECE)** undergraduate at **IIIT Allahabad** [CGPA: 8.02].
+- 💻 **Tech Enthusiast:** Passionate about **Full Stack Development** and **Data Structures & Algorithms**.
+- 🏆 **Achievements:** - **Knight** on LeetCode (Max Rating: **2019**)
+    - **3 Star** on CodeChef (Max Rating: **1646**)
+    - **Specialist** on Codeforces (Max Rating: **1533**)
+    - **HackWithInfy Finalist** (Top 100 out of 1.5 Lakh participants).
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Technical Arsenal
 
-### 📘 Academia – Academic Paper Management System
-A centralized platform for uploading, searching, and retrieving academic question papers with cloud storage and optimized filtering.
+<div align="center">
 
-**Tech:** Angular, Spring Boot, MySQL, Cloudinary  
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) |
 
----
-
-### ⚡ CodeSync – Personalized Coding Contest Platform
-Generates custom Codeforces contests by filtering 5,000+ problems based on difficulty and time, with team collaboration and performance tracking.
-
-**Tech:** Next.js, JavaScript, MongoDB  
-
----
-
-## 📊 Contribution Activity (Live)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj6392&theme=github-dark)
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured Projects
 
-- GitHub: https://github.com/Dheeraj6392  
-- Mobile: 6392879668  
+#### 🩺 **CureCart** (Medicine Ordering Platform)
+*Built during internship at Unified Mentor*
+> A full-stack web application designed to streamline medicine ordering with role-based access for customers, pharmacies, and admins.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+- **Key Features:**
+    - Executed secure **RESTful APIs** for authentication and inventory management.
+    - Implemented **Razorpay** payment gateway integration.
+    - Designed role-based dashboards to manage orders and pharmacy inventory efficiently.
+
+#### 📚 **Academia** (Centralized Academic Document System)
+*Academic Resource Manager*
+> A digital platform to centralize previous year question papers, reducing manual collection efforts by 90%.
+- **Tech Stack:** Angular, Spring Boot, MySQL, Cloud Storage
+- **Key Features:**
+    - Architected a scalable backend with **Cloud Storage** support for PDF management.
+    - Implemented responsive UI with inline PDF viewing and efficient search filtering.
+    - Optimized paper management interface for quick academic access.
+
+#### 🎵 **Melody Curation System**
+*Music Streaming Application*
+- **Tech Stack:** Angular, Spring Boot, MySQL
+- **Key Features:** Real-time audio streaming, dynamic playlists, and Auth Guard security.
 
 ---
 
-⭐ Feel free to explore my repositories and connect. Always open to learning and collaboration.
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak stats" />
+</div>
+
+---
+<div align="center">
+  <i>Let's Connect and Code!</i>
+</div>

@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am a **B.Tech (ECE)** undergraduate at **IIIT Allahabad** [CGPA: 8.02].
+- 🎓 I am a **B.Tech (ECE)** undergraduate at **IIIT Allahabad** .
 - 💻 **Tech Enthusiast:** Passionate about **Full Stack Development** and **Data Structures & Algorithms**.
 - 🏆 **Achievements:** - **Knight** on LeetCode (Max Rating: **2019**)
     - **3 Star** on CodeChef (Max Rating: **1646**)
@@ -74,14 +74,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj6392&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj6392&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsonkar&theme=radical" alt="streak stats" />
 </div>
-
 ---
 <div align="center">
   <i>Let's Connect and Code!</i>

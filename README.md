@@ -1,69 +1,73 @@
-# Hi, I’m Dheeraj Sonkar
+# Hi, I’m Dheeraj Sonkar 👋
 
-I am a Computer Science graduate and a passionate software developer with a strong interest in building scalable, real-world applications. I enjoy learning new technologies, solving problems, and continuously improving my engineering skills through hands-on projects.
-
----
-
-## About Me
-
-- Currently focused on strengthening my backend and full-stack development skills  
-- Actively learning and working with Java and modern web technologies  
-- Interested in building clean APIs, optimized databases, and user-centric applications  
-- Open to collaborating with developers on meaningful open-source and learning-driven projects  
+🚀 Computer Science graduate | Backend & Full-Stack Developer  
+💻 Passionate about building scalable applications and clean APIs  
 
 ---
 
-## Technical Skills
+## 🔥 Live GitHub Stats (Auto-updating)
 
-**Languages:**  
-Java, JavaScript, TypeScript, C++, SQL  
-
-**Frontend:**  
-Angular, React.js, Next.js, HTML, CSS  
-
-**Backend:**  
-Spring Boot, Node.js, Express.js, RESTful APIs  
-
-**Databases:**  
-MySQL, PostgreSQL, MongoDB  
-
-**Tools & Platforms:**  
-Git, GitHub, Postman, Docker (basic), Cloudinary  
-
-**Core Concepts:**  
-Object-Oriented Programming, Data Structures & Algorithms, API Design, Database Optimization  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj6392&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj6392&layout=compact&theme=github_dark)
 
 ---
 
-## Featured Projects
+## 🧠 About Me
 
-### Academia – Academic Paper Management Platform  
-A full-stack web application for managing and retrieving academic question papers using structured metadata, optimized search, and cloud-based file storage.
-
-**Tech Stack:** Angular, Spring Boot, MySQL, Cloudinary  
-
----
-
-### CodeSync – Personalized Coding Contest Platform  
-A competitive programming platform that generates custom Codeforces contests by filtering thousands of problems based on difficulty and time, with team collaboration and performance tracking.
-
-**Tech Stack:** JavaScript, Next.js, MongoDB  
+- Currently learning and working extensively with **Java & backend systems**
+- Interested in **system design, APIs, databases, and performance optimization**
+- Enjoy solving problems and building real-world projects
+- Open to collaboration in web development and backend projects
 
 ---
 
-## What I’m Looking For
+## 🛠 Tech Stack
 
-- Opportunities to work on real-world software systems  
-- Collaboration with developers who value clean code and good design  
-- Internships or entry-level roles in backend or full-stack development  
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-## Contact
+## 📌 Featured Projects
+
+### 📘 Academia – Academic Paper Management System
+A centralized platform for uploading, searching, and retrieving academic question papers with cloud storage and optimized filtering.
+
+**Tech:** Angular, Spring Boot, MySQL, Cloudinary  
+
+---
+
+### ⚡ CodeSync – Personalized Coding Contest Platform
+Generates custom Codeforces contests by filtering 5,000+ problems based on difficulty and time, with team collaboration and performance tracking.
+
+**Tech:** Next.js, JavaScript, MongoDB  
+
+---
+
+## 📊 Contribution Activity (Live)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj6392&theme=github-dark)
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/Dheeraj6392  
 - Mobile: 6392879668  
 
 ---
 
-Thanks for visiting my profile. I’m always open to learning, collaborating, and building impactful software.
+⭐ Feel free to explore my repositories and connect. Always open to learning and collaboration.

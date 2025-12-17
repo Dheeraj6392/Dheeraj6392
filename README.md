@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsonkar&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj6392&theme=radical" alt="streak stats" />
 </div>
 ---
 <div align="center">

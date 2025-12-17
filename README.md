@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dheeraj+Sonkar;Full+Stack+Developer;Competitive+Programmer;LeetCode+Knight+(Max+2019);CodeChef+3+Star" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/dheerajsonkar1/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:dheerajsonkar2003@gmail.com">
